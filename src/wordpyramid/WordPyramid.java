@@ -3,7 +3,7 @@ WordPyramid.java
 Created by: Lucas Noritomi-Hartwig
 Created on: April 1, 2020
 Last edited on: April 2, 2020
-This program will remove the first and last characters of a string.
+This program will remove the first and last characters of a string. 
 The program should then remove the next set of outside characters. 
 The program continues in this fashion until it has hit the middle character or 
 the middle two characters, completing a Word Pyramid.
